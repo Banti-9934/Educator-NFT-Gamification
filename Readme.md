@@ -5,6 +5,8 @@ The Educator NFT Gamification project is a blockchain-based solution that aims t
 
 ## Contract Address
 0xb11eb010b89000e3575e8339f3251a95acc1e309
+![image](https://github.com/user-attachments/assets/d15777e0-e401-486c-95f9-dbd9f2aa1377)
+
 
 ## Project Vision
 The project envisions a decentralized and transparent platform for educators to be rewarded and recognized for their dedication and impact. By leveraging blockchain technology, the solution ensures the authenticity and permanence of these rewards, motivating educators and creating a gamified approach to professional recognition.
